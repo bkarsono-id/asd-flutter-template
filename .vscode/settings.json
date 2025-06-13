@@ -1,0 +1,6 @@
+{
+  "editor.wordWrapColumn": 120,
+  "editor.wrappingStrategy": "advanced",
+  "editor.wordWrap": "off",
+  "html.format.wrapLineLength": 0
+}
